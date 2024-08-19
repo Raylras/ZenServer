@@ -4,7 +4,7 @@ antlr = "4.13.2"
 gson = "2.11.0"
 slf4j = "2.0.13"
 lsp4j = "0.23.1"
-junit-jupiter = "5.10.3"
+junit-jupiter = "5.11.0"
 junit-platform = "1.10.3"
 
 # LSP4J no longer supports Java 1.8 starting from v0.21.0
