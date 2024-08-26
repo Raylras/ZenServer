@@ -1,5 +1,5 @@
 [versions]
-kotlin = "2.0.0"
+kotlin = "2.0.20"
 antlr = "4.13.2"
 gson = "2.11.0"
 slf4j = "2.0.13"
